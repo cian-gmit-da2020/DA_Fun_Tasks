@@ -1,6 +1,20 @@
-# DA_Fundamental
-Task Project Repository for Fundamental of Data Analysis Module
+# GMIT Fundamentals of Data Analysis (2020)
+## Cian Hogan
 
+Project Repository for Fundamentals of Data Analysis Module
+## Tasks Assignment
+This repository contains a number of files listed below
+***
+**README.md** *This file containing Table of contents and repository insturctions*
+
+**Tasks.ipynb** *Project file containing notebook of completed tasks. Table of contents listed below*
+
+**FunDA Tasks.pdf** *PDF of the task instructions*
+
+**LICENCE** *GNU General Public License v3.0*
+
+**.gitignore**
+***
 # Table of Contents
 ***
 ## 1. Counts
